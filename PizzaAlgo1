@@ -2,7 +2,8 @@ PIZZA ALGORITHM
 1. Find which pizza place you would like to order from.
 2. Find the phone number of the pizza place .
 3. Get your pizza order ready before you call.
-4. Call the phone number of the pizza place and tell them your pizza order
+4. Call the phone number of the pizza place and tell them your pizza order.
 5. If they ask whether you're ordering for pick-up or delivery, tell them 
-   which one you prefer
-6. 
+   which one you prefer.
+6. If you're ordering for pickup, wait the allotted time they tell you and 
+   then start heading to the location.
